@@ -56,7 +56,7 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={express} alt="Image" />
-                                <h5>ExpressJs</h5>
+                                <h5>ExpressJS</h5>
                             </div>
                             <div className="item">
                                 <img src={react} alt="Image" />
